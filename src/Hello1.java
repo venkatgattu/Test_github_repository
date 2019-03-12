@@ -4,6 +4,5 @@ class Hello1
    {
       System.out.println("hello from class1");
       System.out.println("hello from class1");
-      System.out.println("hello from class1");
    }
 }
